@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Dialog</string>
+    <string name="confirmation">Confirm</string>
+    <string name="fire_missiles_confirmation">Are you sure you want to fire the missiles?</string>
+    <string name="fire">Fire</string>
+</resources>
